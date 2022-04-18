@@ -1,4 +1,4 @@
-![Technical Documentation Page](images/TechnicalDocumentation.jpg)
+![Technical Documentation Page](https://github.com/KaviRajVedi/freecodecamp/edit/main/Responsive-Web-Design/Technical-Documentation/images/TechnicalDocumentation.jpg)
 
 # Technical Documentation Page
 An HTML Documentation page developed for the freeCodecamp's Responsive Web Design Project "Build a Technical Documentation Page".<br/>
