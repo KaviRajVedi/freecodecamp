@@ -14,5 +14,4 @@ freeCodeCamp.org is a nonprofit organization helping thousands of people learn t
   <br />
   **Projects**: [Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page), [Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form), [Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page), [Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page), [Personal Portfolio Webpage](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
   
-  #### Certification
-[Certified](https://freecodecamp.org/certification/kavirajvedi/responsive-web-design) by [Quincy Larson](https://github.com/quincylarson)
+#### [Certified](https://freecodecamp.org/certification/kavirajvedi/responsive-web-design) and verified by [Quincy Larson](https://github.com/quincylarson)
